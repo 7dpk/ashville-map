@@ -4,11 +4,11 @@ var UnminedMapProperties = {
     maxZoom: 2,
     defaultZoom: 0,
     imageFormat: "webp",
-    minRegionX: -6,
-    minRegionZ: -6,
-    maxRegionX: 7,
-    maxRegionZ: 5,
-    worldName: "world",
+    minRegionX: -22,
+    minRegionZ: -21,
+    maxRegionX: 8,
+    maxRegionZ: 7,
+    worldName: "Ashville smp",
     background: "",
     markers: new Array()
 }
