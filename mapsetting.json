@@ -1,0 +1,24 @@
+{
+  "BlockFilterSettings": {
+    "PredefinedFilters": {}
+  },
+  "DataPackSettings": {
+    "IsEnabled": true,
+    "LoadBiomeFoliageTint": true,
+    "LoadBiomeGrassTint": true,
+    "LoadBiomeWaterTint": true
+  },
+  "HighlightSettings": {
+    "Items": []
+  },
+  "RendererSettings": {
+    "InhabitedChunksOnly": false,
+    "ShadowMode": 1,
+    "Shadows": true,
+    "TransparentUnderground": true
+  },
+  "SlicerSettings": {},
+  "StylesheetSettings": {
+    "Settings": {}
+  }
+}
